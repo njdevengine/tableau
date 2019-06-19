@@ -96,9 +96,3 @@ Your final product will be assessed on the following metrics:
 * The final "format" of your deliverable is up to you. It can be an embedded Tableau dashboard, a Tableau Story, a Tableau visualization + PDF -- you name it. The bottom line is: This is your story to tell. Use the medium you deem most effective. (But you should definitely be using Tableau in some way!)
 
 * Treat this as a serious endeavor! This is an opportunity to show future employers that you have what it takes to be a top-notch analyst. 
-
-* Good luck!
-
-## Copyright
-
-Data Boot Camp (C) 2018. All Rights Reserved.
