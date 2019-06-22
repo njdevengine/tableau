@@ -1,6 +1,6 @@
 import os
 import zipfile
-# this file is not part of the assignment, its a series of scripts I used to unzip and combine all the files downloaded from citi
+# this file is not exactly part of the assignment, its a series of scripts I used to unzip and combine all the files downloaded from citi
 #make directories called "citi" and within that make "data" and within that "join_me"
 dir_path = r"/citi//"
 
